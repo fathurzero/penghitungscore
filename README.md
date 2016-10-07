@@ -1,2 +1,3 @@
 # penghitungscore
-Aplikasi Penghitung Score Team A vs Team B
+Aplikasi Penghitung Score untuk Team A vs Team B
+
